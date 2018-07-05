@@ -1,4 +1,4 @@
-# NAACL-HLT 2019 official website
+# SIGDAT official website
 
 This is the code for the official website for the ACL SIGDAT: the Association for Computational Linguistics Special Interest Group for linguistic data and corpus-based approaches to natural language processing.  
 
