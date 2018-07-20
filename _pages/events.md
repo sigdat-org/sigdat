@@ -180,7 +180,7 @@ toc_icon: "cog"
 - [Call for papers](https://web.archive.org/web/19991014033008/http://www.ling.umu.se:80/WVLC-4/2ndcfp.html)
 - [Proceedings](http://www.aclweb.org/anthology/W/W96/#0100/)
 
-### Conference on Empirical Methods in Natural Language Processing 
+### First Conference on Empirical Methods in Natural Language Processing 
 - May 17-18, 1996
 - University of Pennsylvania, Philadelphia, USA
 - [Program](https://web.archive.org/web/20010609141717/http://www.cis.upenn.edu:80/~yarowsky/Conf_on_Emp_Meth.html)
