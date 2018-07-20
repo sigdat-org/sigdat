@@ -10,6 +10,8 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+*Note*: The links for the older conferences and workshops no longer exist on the web. For those links, a snapshot from the Internet Archive is used instead.
+
 ### 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP 2015)
 - September 7-11, 2017
 - Øksnehallen, Copenhagen, Denmark
