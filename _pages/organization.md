@@ -55,9 +55,9 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Philipp Koehn, Johns Hopkins University, USA<br/>
 - Mark Johnson, Macquarie University, Australia)<br/>
 - Lillian Lee, Cornell University, USA<br/>
-- Hang Li, Huawei, China<br/>
+- Hang Li, Toutiao, China<br/>
 - Dekang Lin, Google, USA<br/>
-- Lluís Màrquez, Universitat Politècnica de Catalunya, Spain<br/>
+- Lluís Màrquez, Qatar Computing Research Institute, Qatar<br/>
 - Yuji Matsumoto, Nara Institute of Science and Technology, Japan<br/>
 - Paola Merlo, Université de Genève, Switzerland)<br/>
 - Rada Mihalcea, University of Michigan, USA<br/>
@@ -71,7 +71,7 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Hinrich Schütze, University of Stuttgart, Germany<br/>
 - Noah Smith, University of Washington, USA<br/>
 - Jian Su, I2R, Singapore<br/>
-- Keh-Yih Su, Behavior Design Corporation, Taiwan<br/>
+- Keh-Yih Su, IIS Sinica, Taiwan<br/>
 - Jun'ichi Tsujii, Microsoft Research Asia, China<br/>
 - Evelyne Tzoukermann, Streamsage, USA<br/>
 - Ralph Weischedel, BBN, USA<br/>
