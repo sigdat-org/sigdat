@@ -15,10 +15,14 @@ videos:
     image_path: /assets/images/videos-2015.png
     alt: "EMNLP 2015 Videos"
     title: "EMNLP 2015"
+  - url: https://www.youtube.com/channel/UCZC4e4nrTjVqkW3Gcl16WoA/videos
+    image_path: /assets/images/videos-2014.png
+    alt: "EMNLP 2014 Videos"
+    title: "EMNLP 2014"
 ---
 {% include base_path %}
 
-Starting in 2015, SIGDAT has recorded videos of the talks given at the EMNLP conferences and made them available to the community and the public at large. The videos are hosted on Vimeo. Click on an icon below to open the Vimeo playlist for that year.
+Starting in 2015, SIGDAT has recorded videos of the talks given at the EMNLP conferences and made them available to the community and the public at large. The videos are hosted on Vimeo and YouTube. Click on an icon below to open the playlist for that year.
 
 {% include gallery id="videos" class="half" %}
 
