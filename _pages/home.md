@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/sigdat-splash.png"
   overlay_filter: 0.7
-excerpt: "Linguistic Data and Corpus-based Approaches to Natural Language Processing"
+excerpt: "Special Interest Group on Linguistic Data &amp; Corpus-based Approaches to Natural Language Processing<br/><br/>Sponsor of EMNLP"
 ---
 
 <h2>Welcome!</h2>
