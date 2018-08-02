@@ -69,7 +69,7 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Bo Pang, Google, USA<br/>
 - Sebastian Riedel, University College London, UK<br/>
 - Hinrich Schütze, University of Stuttgart, Germany<br/>
-- Noah Smith, University of Washington, USA<br/>
+- Noah Smith, University of Washington/AI2, USA<br/>
 - Jian Su, I2R, Singapore<br/>
 - Keh-Yih Su, IIS Sinica, Taiwan<br/>
 - Jun'ichi Tsujii, Microsoft Research Asia, China<br/>
