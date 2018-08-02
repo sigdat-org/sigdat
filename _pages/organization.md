@@ -16,7 +16,7 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - **President**: Mirella Lapata, University of Edinburgh, UK<br/>
 - **Vice President**: Jian Su, Institute for Infocomm Research, Singapore<br/>
 - **Vice President-Elect**: Ani Nenkova, University of Pennsylvania, USA<br/>
-- **Secretary-Treasurer**: Noah Smith, University of Washington, USA
+- **Secretary-Treasurer**: Noah Smith, University of Washington/AI2, USA
 
 ## Conference Board Members
 - All current SIGDAT officers<br/>
