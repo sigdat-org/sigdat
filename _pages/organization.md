@@ -34,6 +34,7 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Claire Cardie, Cornell University, USA<br/>
 - Xavier Carreras, Naver Labs Europe, France<br/>
 - Eugene Charniak, Brown University, USA<br/>
+- David Chiang, University of Notre Dame, USA<br/>
 - Ken Church, IBM, USA<br/>
 - Michael Collins, Columbia University, USA<br/>
 - Ido Dagan, Bar Ilan University, Israel<br/>
@@ -47,19 +48,20 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Changning Huang, Microsoft, China<br/>
 - Jan Hajic, Charles University, Czech Republic<br/>
 - Donna Harman, NIST, USA<br/>
-- James Henderson, XRCE, France)<br/>
+- James Henderson, XRCE, France<br/>
+- Julia Hockenmaier, UIUC, USA<br/>
 - Rebecca Hwa, University of Pittsburgh, USA<br/>
 - Nancy Ide, Vassar College, USA<br/>
 - Pierre Isabelle, CNRC-NRC, Canada<br/>
 - Dan Jurafsky, Stanford University, USA<br/>
 - Philipp Koehn, Johns Hopkins University, USA<br/>
-- Mark Johnson, Macquarie University, Australia)<br/>
+- Mark Johnson, Macquarie University, Australia<br/>
 - Lillian Lee, Cornell University, USA<br/>
 - Hang Li, Toutiao, China<br/>
 - Dekang Lin, Google, USA<br/>
 - Lluís Màrquez, Qatar Computing Research Institute, Qatar<br/>
 - Yuji Matsumoto, Nara Institute of Science and Technology, Japan<br/>
-- Paola Merlo, Université de Genève, Switzerland)<br/>
+- Paola Merlo, Université de Genève, Switzerland<br/>
 - Rada Mihalcea, University of Michigan, USA<br/>
 - Ray Mooney, University of Texas, USA<br/>
 - Alessandro Moschitti, Qatar Computing Research Institute<br/>
@@ -68,11 +70,12 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Marius Pasca, Google, USA<br/>
 - Bo Pang, Google, USA<br/>
 - Sebastian Riedel, University College London, UK<br/>
+- Ellen Riloff, University of Utah, USA<br/>
 - Hinrich Schütze, University of Stuttgart, Germany<br/>
 - Noah Smith, University of Washington/AI2, USA<br/>
 - Jian Su, I2R, Singapore<br/>
 - Keh-Yih Su, IIS Sinica, Taiwan<br/>
-- Jun'ichi Tsujii, Microsoft Research Asia, China<br/>
+- Jun'ichi Tsujii, AIST, Japan<br/>
 - Evelyne Tzoukermann, Streamsage, USA<br/>
 - Ralph Weischedel, BBN, USA<br/>
 - Dekai Wu, Hong Kong University of Science and Technology, China<br/>
