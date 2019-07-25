@@ -14,7 +14,7 @@ SIGDAT is the [Association for Computational Linguistics](http://aclweb.org) spe
 
 <h2>About</h2>
 
-SIGDAT was founded in 1993 and is one of ACL's oldest SIGs. Since its inception, SIGDAT's primary mission has been to organize a series of conferences and workshops, including EMNLP (Conference on Empirical Methods in Natural Language Processing) and WVLC (Workshop on Very Large Corpora). These meetings have become quite popular, and EMNLP is now a 3-day main conference with 2 day workshops and tutorials, having about 2500 attendees and 2137 paper submissions in 2018
+SIGDAT was founded in 1993 and is one of ACL's oldest SIGs. Since its inception, SIGDAT's primary mission has been to organize a series of conferences and workshops, including EMNLP (Conference on Empirical Methods in Natural Language Processing) and WVLC (Workshop on Very Large Corpora). These meetings have become quite popular, and EMNLP is now a 3-day main conference with 2 day workshops and tutorials, having about 2500 attendees and 2137 paper submissions in 2018.
 
 SIGDAT is generally focused on corpus-based and statistical methods in Natural Language Processing, and encourages initiatives in support of this broader mission from its members.
 
