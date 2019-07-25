@@ -14,13 +14,17 @@ SIGDAT is the [Association for Computational Linguistics](http://aclweb.org) spe
 
 <h2>About</h2>
 
-SIGDAT was founded in 1993 and is one of ACL's oldest SIGs. Since its inception, SIGDAT's primary mission has been to organize a series of conferences and workshops, including EMNLP (Conference on Empirical Methods in Natural Language Processing) and WVLC (Workshop on Very Large Corpora). These meetings have become quite popular, and EMNLP is now a 3-day main conference with 2 day workshops and tutorials, having about 2500 attendees and 2137 paper submissions in 2018
+SIGDAT was founded in 1993 and is one of ACL's oldest SIGs. Since its inception, SIGDAT's primary mission has been to organize a series of conferences and workshops, including EMNLP (Conference on Empirical Methods in Natural Language Processing) and WVLC (Workshop on Very Large Corpora). These meetings have become quite popular, and EMNLP is now a 3-day main conference with 2 day workshops and tutorials, having about 2500 attendees and 2137 paper submissions in 2018.
 
 SIGDAT is generally focused on corpus-based and statistical methods in Natural Language Processing, and encourages initiatives in support of this broader mission from its members.
 
 <h2>EMNLP-IJCNLP 2019</h2>
 
-SIGDAT(https://sigdat.org/) and AFNLP(http://www.afnlp.org/wp/) invite you to participate in the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP) and 9th International Joint Conference on Natural Language Processing (IJCNLP) in Hong Kong. EMNLP-IJCNLP 2019 will be held at the Asia World Expo(https://www.asiaworld-expo.com/) in Hong Kong from November 3rd through November 7th, 2019.
+[SIGDAT](https://sigdat.org/) and [AFNLP](http://www.afnlp.org/wp/) invite you to participate in the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP) and 9th International Joint Conference on Natural Language Processing (IJCNLP) in Hong Kong. 
+
+[EMNLP-IJCNLP](https://www.emnlp-ijcnlp2019.org/) 2019 will be held at the [Asia World Expo](https://www.asiaworld-expo.com/) in Hong Kong from November 3rd through November 7th, 2019.
+
+
 
 
 <h3>General chair</h3>
