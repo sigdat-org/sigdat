@@ -20,7 +20,7 @@ SIGDAT is generally focused on corpus-based and statistical methods in Natural L
 
 <h2>EMNLP-IJCNLP 2019</h2>
 
-[SIGDAT](https://sigdat.org/) and [AFNLP](http://www.afnlp.org/wp/) invite you to participate in the [2019 Conference on Empirical Methods in Natural Language Processing (EMNLP) and 9th International Joint Conference on Natural Language Processing (IJCNLP)](https://www.emnlp-ijcnlp2019.org) in Hong Kong. EMNLP-IJCNLP 2019 will be held at the Asia World Expo(https://www.asiaworld-expo.com/) in Hong Kong from November 3rd through November 7th, 2019.
+[SIGDAT](https://sigdat.org/) and [AFNLP](http://www.afnlp.org/wp/) invite you to participate in the [2019 Conference on Empirical Methods in Natural Language Processing (EMNLP) and 9th International Joint Conference on Natural Language Processing (IJCNLP)](https://www.emnlp-ijcnlp2019.org) in Hong Kong. EMNLP-IJCNLP 2019 will be held at the [Asia World Expo](https://www.asiaworld-expo.com/) in Hong Kong from November 3-7, 2019.
 
 
 <h3>General chair</h3>
