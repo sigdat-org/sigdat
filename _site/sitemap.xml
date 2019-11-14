@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/constitution</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/organization</loc>
+</url>
+<url>
+<loc>http://localhost:4000/videos</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/documents/EMNLP-IJCNLP%202019%20hand-off%20meeting%20(notes%20from%20program%20co-chairs).pdf</loc>
+<lastmod>2019-11-13T14:08:20+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/documents/SIGDATUpdate@EMNLPIJCNLP19.pdf</loc>
+<lastmod>2019-11-13T14:08:26+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/documents/emnlp19_handoff_GC.pptx.pdf</loc>
+<lastmod>2019-11-13T14:08:22+08:00</lastmod>
+</url>
+</urlset>
