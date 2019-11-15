@@ -13,6 +13,8 @@ main:
   - title: "Past Events"
     url: /events
 
+  - title: "Information"
+    url: /information
 
 pages:
   - title: Organization
@@ -35,6 +37,10 @@ pages:
       - title: "Past Conferences &amp; Workshops"
       - url: /pages/events.md
 
+  - title: Information
+    children:
+      - title: "Related Information"
+      - url: /pages/information.md
 # calls:
 #   - title: Call for
 #     children:
