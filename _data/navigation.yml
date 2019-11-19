@@ -1,6 +1,9 @@
 # main links
 main:
 
+  - title: "About"
+    url: /about
+
   - title: "Organization"
     url: /organization
 
@@ -17,6 +20,11 @@ main:
     url: /information
 
 pages:
+  - title: About
+    children:
+      - title: "About"
+      - url: /pages/about.md
+
   - title: Organization
     children:
       - title: "Officers &amp; Organizing Committee"
