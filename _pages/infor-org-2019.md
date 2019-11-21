@@ -1,8 +1,8 @@
 ---
-title: Information for EMNLP organisers
+title: 
 layout: single
 excerpt: ""
-permalink: /infor-org
+permalink: /infor-org-2019
 sidebar: false
 toc: false
 toc_label: " Sections"

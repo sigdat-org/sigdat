@@ -10,7 +10,7 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
-(position, name, Affiliation, Country/territory)
+(**Position**, Name, Affiliation, Country/territory)
 
 ## 2018
 - **President**: Mirella Lapata, University of Edinburgh, UK<br/>
@@ -53,7 +53,9 @@ toc_icon: "cog"
 - **President**: Yuji Matsumoto, Nara Institute of Science and Technology, Japan<br/>
 - **Vice President**: Eugene Charniak, Brown University, USA<br/>
 - **Vice President-Elect**: Phillipp Koehn, University of Edinburgh, UK<br/>
-- **Secretary-Treasurer**: Noah Smith, Carnegie Mellon University , USA
+- **Secretary-Treasurer**: 
+  - Noah Smith, Carnegie Mellon University , USA<br/>
+  - David Yarowsky, Johns Hopkins University, USA
 
 ## 1993-2011
 - **President**: Ken Church, IBM / Johns Hopkins University / Microsoft / AT&T, USA<br/>

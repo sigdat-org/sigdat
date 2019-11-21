@@ -13,5 +13,8 @@ toc_icon: "cog"
 
 # [Information for the Public](/infor-pub)
 
-# [Information for EMNLP organisers](/infor-org)
+# [Information for EMNLP organisers](/infor-org-password)
+
+# [Information for SIGDAT Officers](/infor-off-password)
+
 

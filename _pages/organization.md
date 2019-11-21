@@ -12,7 +12,7 @@ toc_icon: "cog"
 
 SIGDAT is run by consensus vote of its organizing committee, consisting of the original SIGDAT organizers and subsequent SIGDAT conference chairs and co-chairs.  SIGDAT has established a Conference Board to help organize the selection of the locations of upcoming EMNLP conferences. 
 
-## Officers:  <br/> ***(position, name, Affiliation, Country/territory)***
+## Officers in 2019:  <br/> 
 - **President**: Jian Su, Institute for Infocomm Research, Singapore<br/>
 - **Vice President**: Ani Nenkova, University of Pennsylvania, USA<br/>
 - **Vice President-Elect**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
