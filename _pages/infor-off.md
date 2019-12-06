@@ -21,9 +21,9 @@ toc_icon: "cog"
 - Here's the [survey data](https://docs.google.com/spreadsheets/d/1MAiqf3jAGbLf5aSx06IhnhnvDGfStJdZQKzZBDzYPQQ/edit?usp=sharing): 
   - [PDF](assets/documents/EMNLP 2015 Post-conference Survey - Google Forms.pdf)
      
-
+<!-- 
  <script language="Javascript">
-<!--hide
+
 var password
 var pass1 = "emnlpoff"
 password = prompt('This page is exclusively for SIGDAT Officers only. Please enter the password to continue. ',' ');
@@ -36,5 +36,5 @@ else
 	document.getElementById('doc1').style.display='block'
 	document.getElementById('doc2').style.display='block'
 }
-//-->
-</script>
+
+</script> -->
