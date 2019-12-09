@@ -46,10 +46,6 @@ pages:
       - title: "Past Conferences &amp; Workshops"
       - url: /pages/events.md
 
-  - title: Information
-    children:
-      - title: "Related Information"
-      - url: /pages/information.md
 # calls:
 #   - title: Call for
 #     children:

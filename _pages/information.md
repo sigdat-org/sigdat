@@ -1,7 +1,7 @@
 ---
-title: 
+title: "Useful Information"
 layout: single
-excerpt: "Useful Information"
+excerpt: "Useful Information related to SIGDAT"
 permalink: /information
 sidebar: false
 toc: true
