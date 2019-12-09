@@ -10,14 +10,15 @@ main:
   - title: "Constitution"
     url: /constitution
 
+  - title: "Information"
+    url: /information
+
   - title: "Videos"
     url: /videos
 
   - title: "Past Events"
     url: /events
 
-  - title: "Information"
-    url: /information
 
 pages:
   - title: About
