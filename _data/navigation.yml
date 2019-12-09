@@ -19,33 +19,6 @@ main:
   - title: "Past Events"
     url: /events
 
-
-pages:
-  - title: About
-    children:
-      - title: "About"
-      - url: /pages/about.md
-
-  - title: Organization
-    children:
-      - title: "Officers &amp; Organizing Committee"
-      - url: /pages/organization.md
-
-  - title: Constitution
-    children:
-      - title: "Constitution"
-      - url: /pages/constitution.md
-
-  - title: Videos
-    children:
-      - title: "Videos of Talks"
-      - url: /pages/videos.md
-
-  - title: Past Events
-    children:
-      - title: "Past Conferences &amp; Workshops"
-      - url: /pages/events.md
-
 # calls:
 #   - title: Call for
 #     children:
