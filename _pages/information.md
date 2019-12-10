@@ -19,18 +19,12 @@ The following page contains information about SIGDAT that might be useful for th
 
 ## Conference Organizers
 
-### Notes from EMNLP-IJCNLP 2019 Hand-Off Meeting
-
-- [Program Committee Co-Chairs](/assets/documents/EMNLP-IJCNLP 2019-hand-off-meeting-notes-program-chairs.pdf) 
-- [General Chair](/assets/documents/EMNLP-IJCNLP-2019-handoff-meeting-notes-general-chair.pdf)
+- [Notes](/assets/documents/Notes-organizers.pdf)  from EMNLP-IJCNLP 2019
 
 ## SIGDAT Officers
 
-### 2018 SIGDAT Survey
-- [Results](/assets/documents/2018-SIGDAT-survey-results.pdf)
-- [Data](https://docs.google.com/spreadsheets/d/1_ArUQdgttqlHjrcsE4SOGwpQhVPT-rrjV0lrmSjUr_s/edit?usp=sharing)
+- [2018](/assets/documents/2018-SIGDAT-survey-results.pdf)
 
-### EMNLP 2015 Conference Survey 
-- [Results](/assets/documents/EMNLP-2015-post-conference-survey-google-forms.pdf)
-- [Data](https://docs.google.com/spreadsheets/d/1MAiqf3jAGbLf5aSx06IhnhnvDGfStJdZQKzZBDzYPQQ/edit?usp=sharing) 
+- [2015](/assets/documents/EMNLP-2015-post-conference-survey-google-forms.pdf)
+
 
