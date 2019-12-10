@@ -8,17 +8,20 @@ toc: false
 toc_label: " Sections"
 toc_icon: "cog"
 ---
-{% include base_path %}
 
 *Note*: The links for the older conferences and workshops no longer exist on the web. For those links, a snapshot from the Internet Archive is used instead.
+
+### 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP 2019)
+- November 3-November 7, 2019
+- Hong Kong, China
+- [Website](https://www.emnlp-ijcnlp2019.org)
+- [Proceedings](https://www.aclweb.org/anthology/events/emnlp-2019/)
 
 ### 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)
 - October 31-November 4, 2018
 - Brussels, Belgium
 - [Website](https://emnlp2018.org/)
 - [Proceedings](https://www.aclweb.org/anthology/events/emnlp-2018/)
-
-
 
 ### 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP 2015)
 - September 7-11, 2017

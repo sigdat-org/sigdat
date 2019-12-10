@@ -1,39 +1,23 @@
 # main links
 main:
 
+  - title: "About"
+    url: /about
+
   - title: "Organization"
     url: /organization
 
   - title: "Constitution"
     url: /constitution
 
+  - title: "Information"
+    url: /information
+
   - title: "Videos"
     url: /videos
 
   - title: "Past Events"
     url: /events
-
-
-pages:
-  - title: Organization
-    children:
-      - title: "Officers &amp; Organizing Committee"
-      - url: /pages/organization.md
-
-  - title: Constitution
-    children:
-      - title: "Constitution"
-      - url: /pages/constitution.md
-
-  - title: Videos
-    children:
-      - title: "Videos of Talks"
-      - url: /pages/videos.md
-
-  - title: Past Events
-    children:
-      - title: "Past Conferences &amp; Workshops"
-      - url: /pages/events.md
 
 # calls:
 #   - title: Call for
