@@ -20,7 +20,7 @@ toc_icon: "cog"
 ### 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)
 - October 31-November 4, 2018
 - Brussels, Belgium
-- [Website](https://emnlp2018.org/)
+- [Website](https://2018.emnlp.org/)
 - [Proceedings](https://www.aclweb.org/anthology/events/emnlp-2018/)
 
 ### 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP 2015)
