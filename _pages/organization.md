@@ -11,12 +11,12 @@ toc_icon: "cog"
 
 SIGDAT is run by consensus vote of its organizing committee, consisting of the original SIGDAT organizers and subsequent SIGDAT conference chairs and co-chairs.  SIGDAT has established a Conference Board to help organize the selection of the locations of upcoming EMNLP conferences. 
 
-## Officers in 2019:  
+## Officers in 2020:  
 
-- **President**: Jian Su, Institute for Infocomm Research, Singapore<br/>
-- **Vice President**: Ani Nenkova, University of Pennsylvania, USA<br/>
-- **Vice President-Elect**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
-- **Secretary-Treasurer**: Noah Smith, University of Washington/AI2, USA
+- **President**: Ani Nenkova, University of Pennsylvania, USA<br/>
+- **Vice President**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
+- **Vice President-Elect**: Hang Li, ByteDance, China<br/>
+- **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Research Asia, China
 
 [Previous Officers](/officers)
 
@@ -54,7 +54,9 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Julia Hockenmaier, UIUC, USA<br/>
 - Rebecca Hwa, University of Pittsburgh, USA<br/>
 - Nancy Ide, Vassar College, USA<br/>
+- Kentaro Inui, Tohoku University, Japan<br/>
 - Pierre Isabelle, CNRC-NRC, Canada<br/>
+- Jing Jiang, Singapore Management University, Singapore<br/>
 - Dan Jurafsky, Stanford University, USA<br/>
 - Philipp Koehn, Johns Hopkins University, USA<br/>
 - Mark Johnson, Macquarie University, Australia<br/>
@@ -68,6 +70,7 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Ray Mooney, University of Texas, USA<br/>
 - Alessandro Moschitti, Qatar Computing Research Institute<br/>
 - Hwee Tou Ng, National University of Singapore, Singapore<br/>
+- Vincent Ng, University of Texas at Dallas, USA<br/>
 - Martha Palmer, University of Colorado Boulder<br/>
 - Marius Pasca, Google, USA<br/>
 - Bo Pang, Google, USA<br/>
@@ -79,6 +82,7 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Keh-Yih Su, IIS Sinica, Taiwan<br/>
 - Jun'ichi Tsujii, AIST, Japan<br/>
 - Evelyne Tzoukermann, Streamsage, USA<br/>
+- Xiaojun Wan, Peking University, China<br/>
 - Ralph Weischedel, BBN, USA<br/>
 - Dekai Wu, Hong Kong University of Science and Technology, China<br/>
 - David Yarowsky, Johns Hopkins University, USA<br/>
