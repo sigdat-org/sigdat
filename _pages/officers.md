@@ -11,6 +11,12 @@ toc_icon: "cog"
 
 (**Position**, Name, Affiliation, Country/territory)
 
+## 2019
+- **President**: Jian Su, Institute for Infocomm Research, Singapore<br/>
+- **Vice President**: Ani Nenkova, University of Pennsylvania, USA<br/>
+- **Vice President-Elect**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
+- **Secretary-Treasurer**: Noah Smith, University of Washington/AI2, USA
+
 ## 2018
 - **President**: Mirella Lapata, University of Edinburgh, UK<br/>
 - **Vice President**: Jian Su, Institute for Infocomm Research, Singapore<br/>
