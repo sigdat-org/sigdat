@@ -13,9 +13,9 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 
 ## Officers in 2020:  
 
-- **President**: Ani Nenkova, University of Pennsylvania, USA<br/>
-- **Vice President**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
-- **Vice President-Elect**: Hang Li, ByteDance, China<br/>
+- **President**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
+- **Vice President**: Hang Li, ByteDance, China<br/>
+- **Vice President-Elect**: Mona Diab, George Washington University, USA<br/>
 - **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Research Asia, China
 
 [Previous Officers](/officers)
@@ -25,12 +25,13 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - The current ACL treasurer, ex-officio<br/>
 - Priscilla Rasmussen<br/>
 - Graeme Hirst, University of Toronto, Canada<br/>
--  David Yarowsky, Johns Hopkins University, USA (North American Representative)<br/>
+- David Yarowsky, Johns Hopkins University, USA (North American Representative)<br/>
 - Sebastian Riedel, University College London, UK (European Representative)<br/>
 - Pascale Fung, Hong Kong University of Science &amp; Technology, China (Asian Representative)<br/>
 - Yuji Matsumoto, Nara Institute of Science and Technology, Japan (Asian Representative) 
 
 ## Advisory Board Members
+- Ani Nenkova, Adobe, USA<br/> 
 - Regina Barzilay, MIT, USA<br/>
 - Chris Callison-Burch, University of Pennsylvania, USA<br/>
 - Claire Cardie, Cornell University, USA<br/>
@@ -60,7 +61,6 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Dan Jurafsky, Stanford University, USA<br/>
 - Philipp Koehn, Johns Hopkins University, USA<br/>
 - Mark Johnson, Macquarie University, Australia<br/>
-- Lillian Lee, Cornell University, USA<br/>
 - Hang Li, Toutiao, China<br/>
 - Dekang Lin, Google, USA<br/>
 - Lluís Màrquez, Qatar Computing Research Institute, Qatar<br/>
