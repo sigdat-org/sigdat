@@ -10,6 +10,11 @@ toc_icon: "cog"
 ---
 
 (**Position**, Name, Affiliation, Country/territory)
+## 2020
+- **President**: Ani Nenkova, University of Pennsylvania, USA<br/>
+- **Vice President**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
+- **Vice President-Elect**: Hang Li, ByteDance, China<br/>
+- **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Research Asia, China
 
 ## 2019
 - **President**: Jian Su, Institute for Infocomm Research, Singapore<br/>

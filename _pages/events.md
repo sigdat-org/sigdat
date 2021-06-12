@@ -11,6 +11,12 @@ toc_icon: "cog"
 
 *Note*: The links for the older conferences and workshops no longer exist on the web. For those links, a snapshot from the Internet Archive is used instead.
 
+### 2020 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (EMNLP 2020)
+- November 16-November 20, 2020
+- Online
+- [Website](https://2020.emnlp.org/)
+- [Proceedings](https://www.aclweb.org/anthology/events/emnlp-2020/)
+
 ### 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP 2019)
 - November 3-November 7, 2019
 - Hong Kong, China
