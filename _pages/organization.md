@@ -11,12 +11,12 @@ toc_icon: "cog"
 
 SIGDAT is run by consensus vote of its organizing committee, consisting of the original SIGDAT organizers and subsequent SIGDAT conference chairs and co-chairs.  SIGDAT has established a Conference Board to help organize the selection of the locations of upcoming EMNLP conferences. 
 
-## Officers in 2019:  
+## Officers in 2022:
 
-- **President**: Jian Su, Institute for Infocomm Research, Singapore<br/>
-- **Vice President**: Ani Nenkova, University of Pennsylvania, USA<br/>
-- **Vice President-Elect**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
-- **Secretary-Treasurer**: Noah Smith, University of Washington/AI2, USA
+- **President**: Hang Li, ByteDance, China<br/>
+- **Vice President**: Mona Diab, George Washington University, USA<br/>
+- **Vice President-Elect**: Isabelle Augenstein, University of Copenhagen<br/>
+- **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Research Asia, China
 
 [Previous Officers](/officers)
 
@@ -25,12 +25,14 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - The current ACL treasurer, ex-officio<br/>
 - Priscilla Rasmussen<br/>
 - Graeme Hirst, University of Toronto, Canada<br/>
--  David Yarowsky, Johns Hopkins University, USA (North American Representative)<br/>
+- David Yarowsky, Johns Hopkins University, USA (North American Representative)<br/>
 - Sebastian Riedel, University College London, UK (European Representative)<br/>
 - Pascale Fung, Hong Kong University of Science &amp; Technology, China (Asian Representative)<br/>
 - Yuji Matsumoto, Nara Institute of Science and Technology, Japan (Asian Representative) 
 
 ## Advisory Board Members
+- Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
+- Ani Nenkova, Adobe, USA<br/> 
 - Regina Barzilay, MIT, USA<br/>
 - Chris Callison-Burch, University of Pennsylvania, USA<br/>
 - Claire Cardie, Cornell University, USA<br/>
@@ -54,11 +56,12 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Julia Hockenmaier, UIUC, USA<br/>
 - Rebecca Hwa, University of Pittsburgh, USA<br/>
 - Nancy Ide, Vassar College, USA<br/>
+- Kentaro Inui, Tohoku University, Japan<br/>
 - Pierre Isabelle, CNRC-NRC, Canada<br/>
+- Jing Jiang, Singapore Management University, Singapore<br/>
 - Dan Jurafsky, Stanford University, USA<br/>
 - Philipp Koehn, Johns Hopkins University, USA<br/>
 - Mark Johnson, Macquarie University, Australia<br/>
-- Lillian Lee, Cornell University, USA<br/>
 - Hang Li, Toutiao, China<br/>
 - Dekang Lin, Google, USA<br/>
 - Lluís Màrquez, Qatar Computing Research Institute, Qatar<br/>
@@ -68,6 +71,7 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Ray Mooney, University of Texas, USA<br/>
 - Alessandro Moschitti, Qatar Computing Research Institute<br/>
 - Hwee Tou Ng, National University of Singapore, Singapore<br/>
+- Vincent Ng, University of Texas at Dallas, USA<br/>
 - Martha Palmer, University of Colorado Boulder<br/>
 - Marius Pasca, Google, USA<br/>
 - Bo Pang, Google, USA<br/>
@@ -79,6 +83,7 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Keh-Yih Su, IIS Sinica, Taiwan<br/>
 - Jun'ichi Tsujii, AIST, Japan<br/>
 - Evelyne Tzoukermann, Streamsage, USA<br/>
+- Xiaojun Wan, Peking University, China<br/>
 - Ralph Weischedel, BBN, USA<br/>
 - Dekai Wu, Hong Kong University of Science and Technology, China<br/>
 - David Yarowsky, Johns Hopkins University, USA<br/>
