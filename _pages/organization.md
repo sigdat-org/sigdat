@@ -11,7 +11,7 @@ toc_icon: "cog"
 
 SIGDAT is run by consensus vote of its organizing committee, consisting of the original SIGDAT organizers and subsequent SIGDAT conference chairs and co-chairs.  SIGDAT has established a Conference Board to help organize the selection of the locations of upcoming EMNLP conferences. 
 
-## Officers in 2022:
+## Officers in 2022
 
 - **President**: Hang Li, ByteDance, China<br/>
 - **Vice President**: Mona Diab, George Washington University, USA<br/>
