@@ -15,6 +15,7 @@ SIGDAT is the [Association for Computational Linguistics](https://aclweb.org) sp
 {: .notice--info}
 
 **December 21, 2021**. Prof. Isabelle Augenstein(http://isabelleaugenstein.github.io/) has been elected as the VP-Elect of SIGDAT 2022. 
+
 November 7, 2019. SIGDAT president Dr. Jian Su gave [an update](/assets/documents/SIGDAT-2019-update.pdf) on SIGDAT during the closing session of EMNLP-IJCNLP 2019.
 
 November 25, 2018. 
