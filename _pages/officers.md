@@ -10,6 +10,11 @@ toc_icon: "cog"
 ---
 
 (**Position**, Name, Affiliation, Country/territory)
+## 2021
+- **President**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
+- **Vice President**: Hang Li, ByteDance, China<br/>
+- **Vice President-Elect**: Mona Diab, George Washington University, USA<br/>
+- **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Research Asia, China
 ## 2020
 - **President**: Ani Nenkova, University of Pennsylvania, USA<br/>
 - **Vice President**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>

@@ -3,6 +3,10 @@ title: "Videos of EMNLP Talks"
 layout: single
 permalink: /videos
 videos:
+  - url: https://vimeo.com/channels/1760233
+    image_path: /assets/images/videos-2019.png
+    alt: "EMNLP-IJCNLP 2019 Videos"
+    title: "EMNLP-IJCNLP 2019"
   - url: https://vimeo.com/channels/1427394/videos
     image_path: /assets/images/videos-2018.png
     alt: "EMNLP 2018 Videos"
@@ -23,7 +27,6 @@ videos:
     image_path: /assets/images/videos-2014.png
     alt: "EMNLP 2014 Videos"
     title: "EMNLP 2014"
-  - image_path: /assets/images/blank-logo.png
 ---
 {% include base_path %}
 
