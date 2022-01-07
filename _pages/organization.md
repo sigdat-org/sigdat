@@ -11,11 +11,11 @@ toc_icon: "cog"
 
 SIGDAT is run by consensus vote of its organizing committee, consisting of the original SIGDAT organizers and subsequent SIGDAT conference chairs and co-chairs.  SIGDAT has established a Conference Board to help organize the selection of the locations of upcoming EMNLP conferences. 
 
-## Officers in 2021:
+## Officers in 2022
 
-- **President**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
-- **Vice President**: Hang Li, ByteDance, China<br/>
-- **Vice President-Elect**: Mona Diab, George Washington University, USA<br/>
+- **President**: Hang Li, ByteDance, China<br/>
+- **Vice President**: Mona Diab, George Washington University, USA<br/>
+- **Vice President-Elect**: Isabelle Augenstein, University of Copenhagen<br/>
 - **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Research Asia, China
 
 [Previous Officers](/officers)
@@ -31,6 +31,7 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Yuji Matsumoto, Nara Institute of Science and Technology, Japan (Asian Representative) 
 
 ## Advisory Board Members
+- Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
 - Ani Nenkova, Adobe, USA<br/> 
 - Regina Barzilay, MIT, USA<br/>
 - Chris Callison-Burch, University of Pennsylvania, USA<br/>
