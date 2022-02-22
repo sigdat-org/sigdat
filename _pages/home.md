@@ -13,13 +13,13 @@ SIGDAT is the [Association for Computational Linguistics](https://aclweb.org) sp
 
 <h2>News</h2>
 
-**December 21, 2021**. Prof. [Isabelle Augenstein](http://isabelleaugenstein.github.io/) has been elected as the VP-Elect of SIGDAT 2022. 
+**Feburary 21, 2022**. We are delighted to announce that EMNLP 2022 will be held December 7-11 in Abu Dhabi, the capital city of the United Arab Emirates.  It will be a hybrid conference and we plan to continue improving the hybrid experience. Our physical venue will be the Abu [Dhabi National Exhibition Centre](https://adnec.ae/) -  The local team will be led by [Prof. Nizar Habash (NYU Abu Dhabi)](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/nizar-habash.html) and Prof. [Eric Xing (MBZUAI)](https://mbzuai.ac.ae/news-events/MBZUAI-appoints-world-renowned-leading-AI-academic-Professor-Dr-Eric-Xing-as-President).  We have accepted 24 workshops and 5 tutorials planned for December 7-8.  A demo track and (for the first time at EMNLP) industry track are planned.  The program chairs – Yoav Goldberg, Zornitsa Kozareva, and Yue Zhang – will announce our plan for conference submissions soon.
 {: .notice--info}
 
-**November 7, 2019**. SIGDAT president Dr. Jian Su gave [an update](/assets/documents/SIGDAT-2019-update.pdf) on SIGDAT during the closing session of EMNLP-IJCNLP 2019. 
+**December 21, 2021**. Prof. [Isabelle Augenstein](http://isabelleaugenstein.github.io/) has been elected as the VP-Elect of SIGDAT 2022. 
 {: .notice}
 
-**November 25, 2018.**  [SIGDAT](https://sigdat.org/) and [AFNLP](http://www.afnlp.org/wp/) invite you to participate in the [2019 Conference on Empirical Methods in Natural Language Processing (EMNLP) and 9th International Joint Conference on Natural Language Processing (IJCNLP)](https://www.emnlp-ijcnlp2019.org) in Hong Kong. EMNLP-IJCNLP 2019 will be held at the [Asia World Expo](https://www.asiaworld-expo.com/) in Hong Kong from November 3-7, 2019.
-{: .notice}
-
+<div class="text-center">
+    <a href="/archive" style="font-size: smaller; font-decoration: italic;">Older News</a>
+</div>
 
