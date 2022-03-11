@@ -1,6 +1,5 @@
 # main links
 main:
-
   - title: "About"
     url: /about
 
@@ -13,43 +12,18 @@ main:
   - title: "Information"
     url: /information
 
+  - title: "Calls"
+    url: /calls/bids2023
+
   - title: "Videos"
     url: /videos
 
   - title: "Past Events"
     url: /events
 
-# calls:
-#   - title: Call for
-#     children:
-#       - title: "Long & Short Papers"
-#         url: /calls/papers/
-#       - title: "System Demonstrations"
-#         url: /calls/demos/
+calls:
+  - title: Calls for
+    children:
+      - title: "EMNLP 2023 Bids"
+        url: /calls/bids2023
 
-# program:
-#   - title: Program Details
-#     children:
-#       - title: "Keynote Speakers"
-#         url: /program/keynotes/
-#       - title: "Tutorials"
-#         url: /program/tutorials/
-#       - title: "Workshops"
-#         url: /program/workshops/
-
-
-# participants:
-#   - title: "Information for Participants"
-#     children:
-#       - title: "Accommodation"
-#         url: /participants/accommodation/
-#       - title: "Social Event"
-#         url: /participants/social/
-
-# sponsors:
-#   - title: Sponsorship
-#     children:
-#       - title: "List of Sponsors"
-#         url: /sponsors/list/
-#       - title: "Tiers &amp; Pricing"
-#         url: /sponsors/benefits/
