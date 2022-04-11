@@ -14,6 +14,9 @@ SIGDAT is the [Association for Computational Linguistics](https://aclweb.org) sp
 
 ## News
 
+**April 11, 2022**. The due date of [call for bids to host EMNLP 2023](/calls/bids2023) has been extended to May 31, 2022.
+{: .notice--info}
+
 **April 6, 2022**. The EMNLP 2022 [official website](https://2022.emnlp.org) and [call for papers](https://2022.emnlp.org/calls/papers/Overview) are now live.
 {: .notice--info}
 
