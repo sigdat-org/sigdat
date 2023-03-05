@@ -10,6 +10,11 @@ toc_icon: "cog"
 ---
 
 (**Position**, Name, Affiliation, Country/territory)
+## 2022
+- **President**: Hang Li, ByteDance, China<br/>
+- **Vice President**: Mona Diab, George Washington University, USA<br/>
+- **Vice President-Elect**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
+- **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Research Asia, China
 ## 2021
 - **President**: Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
 - **Vice President**: Hang Li, ByteDance, China<br/>
