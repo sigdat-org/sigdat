@@ -10,6 +10,12 @@ toc_icon: "cog"
 ---
 
 *Note*: The links for the older conferences and workshops no longer exist on the web. For those links, a snapshot from the Internet Archive is used instead.
+### 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)
+- December 7-December 11, 2022
+- Abu Dhabi
+- [Website](https://2022.emnlp.org/)
+- [Proceedings](https://www.aclweb.org/anthology/events/emnlp-2022/)
+
 ### 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)
 - November 7-November 11, 2021
 - Online
