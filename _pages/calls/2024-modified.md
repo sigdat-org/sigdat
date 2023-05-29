@@ -148,6 +148,6 @@ Iceland; 2012 Istanbul, Turkey
 
 For any queries please contact:
 
-- [Mona Diab](mailto:mtdiab@gmail.com), President of SIGDAT
+* [Mona Diab](mailto:mtdiab@gmail.com), President of SIGDAT
 
-- [David Yarowsky](mailto:yarowsky@gmail.com), Treasurer of ACL
+* [David Yarowsky](mailto:yarowsky@gmail.com), Treasurer of ACL
