@@ -1,7 +1,7 @@
 ---
 title: "Call for Bids to Host EMNLP 2024"
 layout: single
-permalink: /calls/bids2023
+permalink: /calls/bids2024
 sidebar:
     nav: "calls"
 toc: true
@@ -11,7 +11,7 @@ toc_icon: "cog"
 
 ## New Draft Proposal Due Date & Bid Selected Date
 
-* May 26, 2023: Call for bids
+* May 29, 2023: Call for bids
 * Through June 15, 2023: Feedback to bidders
 * June 30, 2023: Draft proposals due
 * July 31, 2023: Bid selected

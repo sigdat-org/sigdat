@@ -14,7 +14,10 @@ SIGDAT is the [Association for Computational Linguistics](https://aclweb.org) sp
 
 ## News
 
-**March 5, 2023**. EMNLP 2023 will be held in Singapore. More informaton will be announced soon.
+**May 29, 2023**. Call for Bids EMNLP 2024 [https://2023.emnlp.org/](/calls/bids2024)).
+{: .notice--info}
+
+**May 29, 2023**. EMNLP 2023 will be held in Singapore from Dec 6th to Dec 10th, 2023. Please see more informaton at [https://2023.emnlp.org/](https://2023.emnlp.org/).
 {: .notice--info}
 
 **January 1, 2023**. [Prof. Alice Oh](https://aliceoh9.github.io/) at KAIST has been elected as the SIGDAT VP-Elect.
