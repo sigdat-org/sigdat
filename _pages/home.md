@@ -14,7 +14,7 @@ SIGDAT is the [Association for Computational Linguistics](https://aclweb.org) sp
 
 ## News
 
-**May 29, 2023**. Call for Bids EMNLP 2024 [https://2023.emnlp.org/](/calls/bids2024)).
+**May 29, 2023**. Call for Bids EMNLP 2024 [https://2023.emnlp.org/](/calls/bids2024).
 {: .notice--info}
 
 **May 29, 2023**. EMNLP 2023 will be held in Singapore from Dec 6th to Dec 10th, 2023. Please see more informaton at [https://2023.emnlp.org/](https://2023.emnlp.org/).
@@ -23,6 +23,7 @@ SIGDAT is the [Association for Computational Linguistics](https://aclweb.org) sp
 **January 1, 2023**. [Prof. Alice Oh](https://aliceoh9.github.io/) at KAIST has been elected as the SIGDAT VP-Elect.
 {: .notice--info}
 
-<div class="text-center">
-    <a href="/archive" style="font-size: smaller; font-decoration: italic;">Older News</a>
-</div>
+## Older News
+
+[Archive](/archive)
+
