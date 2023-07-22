@@ -13,7 +13,7 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 
 ## Officers in 2023
 
-- **President**: Mona Diab, George Washington University, USA<br/>
+- **President**: Mona Diab, Carnegie Mellon University, USA<br/>
 - **Vice President**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
 - **Vice President-Elect**: Alice Oh, KAIST, Republic of Korea<br/>
 - **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Search Technology Center Asia, China
