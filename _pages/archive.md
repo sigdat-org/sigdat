@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**January 1, 2023**. [Prof. Alice Oh](https://aliceoh9.github.io/) at KAIST has been elected as the SIGDAT VP-Elect.
+{: .notice}
+
 **April 11, 2022**. The due date of [call for bids to host EMNLP 2023](/calls/bids2023) has been extended to May 31, 2022.
 {: .notice}
 
