@@ -14,13 +14,10 @@ SIGDAT is the [Association for Computational Linguistics](https://aclweb.org) sp
 
 ## News
 
-**July 1, 2023**. The [bid](/calls/bids2024) proposal deadline has been extended to August 18, 2023.
-{: .notice--info}
-
-**May 29, 2023**. The [Call for Bids to host EMNLP 2024](/calls/bids2024) has been posted.
+**March 10, 2024**. The [Call for Bids to host EMNLP 2025 and 2026](/calls/bids2025) has been posted.
 {: .notice}
 
-**May 29, 2023**. [EMNLP 2023](https://2023.emnlp.org) will be held in Singapore from Dec 6th to Dec 10th, 2023.
+**May 29, 2023**. [EMNLP 2023](https://2023.emnlp.org) was held in Singapore from Dec 6th to Dec 10th, 2023.
 {: .notice}
 
 ## Older News

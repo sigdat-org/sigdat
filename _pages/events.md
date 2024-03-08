@@ -10,6 +10,12 @@ toc_icon: "cog"
 ---
 
 *Note*: The links for the older conferences and workshops no longer exist on the web. For those links, a snapshot from the Internet Archive is used instead.
+### 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
+- December 6-December 10, 2023
+- Abu Dhabi
+- [Website](https://2023.emnlp.org/)
+- [Proceedings](https://www.aclweb.org/anthology/events/emnlp-2023/)
+
 ### 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)
 - December 7-December 11, 2022
 - Abu Dhabi
