@@ -11,12 +11,12 @@ toc_icon: "cog"
 
 SIGDAT is run by consensus vote of its organizing committee, consisting of the original SIGDAT organizers and subsequent SIGDAT conference chairs and co-chairs.  SIGDAT has established a Conference Board to help organize the selection of the locations of upcoming EMNLP conferences. 
 
-## Officers in 2023
+## Officers in 2024
 
-- **President**: Mona Diab, Carnegie Mellon University, USA<br/>
-- **Vice President**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
-- **Vice President-Elect**: Alice Oh, KAIST, Republic of Korea<br/>
-- **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Search Technology Center Asia, China
+- **President**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
+- **Vice President**: Alice Oh, KAIST, Republic of Korea<br/>
+- **Vice President-Elect**: <br/>
+- **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Corporation, China
 
 [Previous Officers](/officers)
 
