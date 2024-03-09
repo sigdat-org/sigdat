@@ -13,7 +13,7 @@ main:
     url: /information
 
   - title: "Calls"
-    url: /calls/bids2024
+    url: /calls/bids2025
 
   - title: "Videos"
     url: /videos
@@ -24,6 +24,8 @@ main:
 calls:
   - title: Calls for
     children:
+      - title: "EMNLP 2025 Bids"
+        url: /calls/bids2025
       - title: "EMNLP 2024 Bids"
         url: /calls/bids2024
       - title: "EMNLP 2023 Bids"
