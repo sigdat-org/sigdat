@@ -7,6 +7,12 @@ toc: false
 toc_icon: "cog"
 ---
 
+**July 1, 2023**. The [bid](/calls/bids2024) proposal deadline has been extended to August 18, 2023.
+{: .notice}
+
+**May 29, 2023**. The [Call for Bids to host EMNLP 2024](/calls/bids2024) has been posted.
+{: .notice}
+
 **January 1, 2023**. [Prof. Alice Oh](https://aliceoh9.github.io/) at KAIST has been elected as the SIGDAT VP-Elect.
 {: .notice}
 
