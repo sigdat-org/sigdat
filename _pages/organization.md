@@ -9,13 +9,13 @@ toc_label: " On This Page"
 toc_icon: "cog"
 ---
 
-SIGDAT is run by consensus vote of its organizing committee, consisting of the original SIGDAT organizers and subsequent SIGDAT conference chairs and co-chairs.  SIGDAT has established a Conference Board to help organize the selection of the locations of upcoming EMNLP conferences. 
+SIGDAT is run by consensus vote of its organizing committee, consisting of the original SIGDAT organizers and subsequent SIGDAT conference chairs and co-chairs.  SIGDAT has established a Conference Board to help organize the selection of the locations of upcoming EMNLP conferences.
 
 ## Officers in 2024
 
 - **President**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
 - **Vice President**: Alice Oh, KAIST, Republic of Korea<br/>
-- **Vice President-Elect**: <br/>
+- **Vice President-Elect**: TBD <br/>
 - **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Corporation, China
 
 [Previous Officers](/officers)
@@ -28,11 +28,11 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - David Yarowsky, Johns Hopkins University, USA (North American Representative)<br/>
 - Sebastian Riedel, University College London, UK (European Representative)<br/>
 - Pascale Fung, Hong Kong University of Science &amp; Technology, China (Asian Representative)<br/>
-- Yuji Matsumoto, Nara Institute of Science and Technology, Japan (Asian Representative) 
+- Yuji Matsumoto, Nara Institute of Science and Technology, Japan (Asian Representative)
 
 ## Advisory Board Members
 - Iryna Gurevych, Technische Universität Darmstadt, Germany<br/>
-- Ani Nenkova, Adobe, USA<br/> 
+- Ani Nenkova, Adobe, USA<br/>
 - Regina Barzilay, MIT, USA<br/>
 - Chris Callison-Burch, University of Pennsylvania, USA<br/>
 - Claire Cardie, Cornell University, USA<br/>
@@ -87,4 +87,3 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 - Ralph Weischedel, BBN, USA<br/>
 - Dekai Wu, Hong Kong University of Science and Technology, China<br/>
 - David Yarowsky, Johns Hopkins University, USA<br/>
-
