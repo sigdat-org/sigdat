@@ -14,6 +14,9 @@ SIGDAT is the [Association for Computational Linguistics](https://aclweb.org) sp
 
 ## News
 
+**April 1, 2024**. Congratulations: [Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) was elected as the SIGDAT VP-Elect 2024 and [Juan Pino](https://ai.meta.com/people/776668760684735/juan-pino/) was elected as the SIGDAT Secretary-Treasurer 2024.
+{: .notice}
+
 **March 10, 2024**. The [Call for Bids to host EMNLP 2025 and 2026](/calls/bids2025) has been posted.
 {: .notice}
 

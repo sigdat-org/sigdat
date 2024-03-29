@@ -15,8 +15,8 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 
 - **President**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
 - **Vice President**: Alice Oh, KAIST, Republic of Korea<br/>
-- **Vice President-Elect**: TBD <br/>
-- **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Corporation, China
+- **Vice President-Elect**: Kai-Wei Chang, UCLA, USA<br/>
+- **Secretary-Treasurer**: Juan Pino, Meta, USA<br/>
 
 [Previous Officers](/officers)
 
