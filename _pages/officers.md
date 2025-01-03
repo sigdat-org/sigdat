@@ -11,7 +11,7 @@ toc_icon: "cog"
 
 (**Position**, Name, Affiliation, Country/territory)
 ## 2023
-- **President**: Mona Diab, George Washington University, USA<br/>
+- **President**: Mona Diab, Language Technologies Institute, Carnegie Mellon University, USA<br/>
 - **Vice President**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
 - **Vice President-Elect**: Alice Oh, KAIST, Republic of Korea<br/>
 - **Secretary-Treasurer**: Chin-Yew Lin, Microsoft Research Asia, China
