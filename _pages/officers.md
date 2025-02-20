@@ -10,6 +10,11 @@ toc_icon: "cog"
 ---
 
 (**Position**, Name, Affiliation, Country/territory)
+## 2024
+- **President**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
+- **Vice President**: Alice Oh, KAIST, Republic of Korea<br/>
+- **Vice President-Elect**: Kai-Wei Chang, UCLA, USA<br/>
+- **Secretary-Treasurer**: Juan Pino, Meta, USA<br/>
 ## 2023
 - **President**: Mona Diab, Language Technologies Institute, Carnegie Mellon University, USA<br/>
 - **Vice President**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
