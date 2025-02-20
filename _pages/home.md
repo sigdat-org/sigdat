@@ -14,6 +14,9 @@ SIGDAT is the [Association for Computational Linguistics](https://aclweb.org) sp
 
 ## News
 
+**February 19, 2025**. Congratulations to [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) who was elected as the 2025 SIGDAT VP-Elect!
+{: .notice}
+
 **April 1, 2024**. Congratulations to [Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Juan Pino](https://ai.meta.com/people/776668760684735/juan-pino/) who were elected as the 2024 SIGDAT VP-Elect and Secretary-Treasurer respectively!
 {: .notice}
 
