@@ -11,11 +11,11 @@ toc_icon: "cog"
 
 SIGDAT is run by consensus vote of its organizing committee, consisting of the original SIGDAT organizers and subsequent SIGDAT conference chairs and co-chairs.  SIGDAT has established a Conference Board to help organize the selection of the locations of upcoming EMNLP conferences.
 
-## Officers in 2024
+## Officers in 2025
 
-- **President**: Isabelle Augenstein, University of Copenhagen, Denmark<br/>
-- **Vice President**: Alice Oh, KAIST, Republic of Korea<br/>
-- **Vice President-Elect**: Kai-Wei Chang, UCLA, USA<br/>
+- **President**: Alice Oh, KAIST, Republic of Korea<br/>
+- **Vice President**: Kai-Wei Chang, UCLA, USA<br/>
+- **Vice President-Elect**: Raquel Fernández, University of Amsterdam, The Netherlands<br/>
 - **Secretary-Treasurer**: Juan Pino, Meta, USA<br/>
 
 [Previous Officers](/officers)
