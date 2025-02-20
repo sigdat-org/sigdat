@@ -1,0 +1,16 @@
+{
+  "name": "SIGDAT Conference",
+  "short_name": "SIGDAT",
+  "description": "SIGDAT Conference Website",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/assets/images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+} 
